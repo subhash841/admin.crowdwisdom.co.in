@@ -1,0 +1,11 @@
+[Mon Sep 10 14:30:36.270993 2018] [authz_core:error] [pid 8242] [client 127.0.0.1:51991] AH01630: client denied by server configuration: /code/admin.crowdwisdom.co.in/
+[Mon Sep 10 14:30:36.345032 2018] [authz_core:error] [pid 8242] [client 127.0.0.1:51991] AH01630: client denied by server configuration: /code/admin.crowdwisdom.co.in/favicon.ico, referer: http://cwadmin.localhost.com/
+[Mon Sep 10 14:30:38.533266 2018] [authz_core:error] [pid 8242] [client 127.0.0.1:51991] AH01630: client denied by server configuration: /code/admin.crowdwisdom.co.in/
+[Mon Sep 10 14:30:38.562280 2018] [authz_core:error] [pid 8242] [client 127.0.0.1:51991] AH01630: client denied by server configuration: /code/admin.crowdwisdom.co.in/favicon.ico, referer: http://cwadmin.localhost.com/
+[Mon Sep 10 14:30:39.109279 2018] [authz_core:error] [pid 8242] [client 127.0.0.1:51991] AH01630: client denied by server configuration: /code/admin.crowdwisdom.co.in/
+[Mon Sep 10 14:30:39.133033 2018] [authz_core:error] [pid 8242] [client 127.0.0.1:51991] AH01630: client denied by server configuration: /code/admin.crowdwisdom.co.in/favicon.ico, referer: http://cwadmin.localhost.com/
+[Mon Sep 10 14:31:09.006453 2018] [authz_core:error] [pid 8244] [client 127.0.0.1:51993] AH01630: client denied by server configuration: /code/admin.crowdwisdom.co.in/favicon.ico, referer: http://cwadmin.localhost.com/
+[Mon Sep 10 14:36:36.173621 2018] [authz_core:error] [pid 8581] [client 127.0.0.1:52022] AH01630: client denied by server configuration: /code/admin.crowdwisdom.co.in/
+[Mon Sep 10 14:36:36.206900 2018] [authz_core:error] [pid 8581] [client 127.0.0.1:52022] AH01630: client denied by server configuration: /code/admin.crowdwisdom.co.in/favicon.ico, referer: http://cwadmin.localhost.com/
+[Mon Sep 10 14:36:36.689947 2018] [authz_core:error] [pid 8581] [client 127.0.0.1:52022] AH01630: client denied by server configuration: /code/admin.crowdwisdom.co.in/
+[Mon Sep 10 14:36:36.713689 2018] [authz_core:error] [pid 8581] [client 127.0.0.1:52022] AH01630: client denied by server configuration: /code/admin.crowdwisdom.co.in/favicon.ico, referer: http://cwadmin.localhost.com/
